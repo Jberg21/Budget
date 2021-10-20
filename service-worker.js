@@ -3,11 +3,11 @@ const VERSION = 'version_01';
 const CACHE_NAME = APP_PREFIX + VERSION;
 
 const FILES_TO_CACHE = [
-    "./public/index.html",
-    "./public/js/index.js",
-    "./public/css/style.css",
-    "./public/icons/icon-72x72.png",
-    "./public/icons/icon-96x96.png"
+    "./Develop/public/index.html",
+    "./Develop/public/js/index.js",
+    "./Develop/public/css/style.css",
+    "./Develop/public/icons/icon-72x72.png",
+    "./Develop/public/icons/icon-96x96.png"
   ];
 
 
@@ -60,3 +60,4 @@ const FILES_TO_CACHE = [
     );
     self.clients.claim();
   });
+
