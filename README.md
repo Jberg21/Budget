@@ -17,17 +17,15 @@
 > Challenge #19 Budget Tracker PWA
 
 ## Introduction 
-This week we were given starter code for a budget tracker and add offline functionality to be able to track your expenses in real time even with unstable internet connections, and be able to have the app fully updated when you go back online.
+The challenge this week was to take starter code for a Budget Tracker and add functionality so it would work offline. 
 
 ---
 
 ## Challenges
-
+The Service worker cause me a lot of headache trying to get them to register.
 ---
 ## Victories
-
-
-
+Being able to have good teams members to help me. 
 
 ---
 
@@ -43,7 +41,7 @@ This week we were given starter code for a budget tracker and add offline functi
 
 ## Resources 
 
-<a href="">GitHub Repo</a>
+<a href="https://github.com/Jberg21/Budget">GitHub Repo</a>
 
 <a href=""> Deployed Heroku App </a>
 
