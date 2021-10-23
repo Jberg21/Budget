@@ -23,6 +23,7 @@ The challenge this week was to take starter code for a Budget Tracker and add fu
 
 ## Challenges
 The Service worker cause me a lot of headache trying to get them to register.
+
 ---
 ## Victories
 Being able to have good teams members to help me. 
@@ -43,7 +44,7 @@ Being able to have good teams members to help me.
 
 <a href="https://github.com/Jberg21/Budget">GitHub Repo</a>
 
-<a href=""> Deployed Heroku App </a>
+<a href="https://mysterious-bayou-26088.herokuapp.com/"> Deployed Heroku App </a>
 
 
 
